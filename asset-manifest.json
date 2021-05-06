@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cronometrybe/static/css/main.a1fe19c7.chunk.css",
-    "main.js": "/cronometrybe/static/js/main.c7ead84e.chunk.js",
-    "main.js.map": "/cronometrybe/static/js/main.c7ead84e.chunk.js.map",
+    "main.css": "/cronometrybe/static/css/main.83aab522.chunk.css",
+    "main.js": "/cronometrybe/static/js/main.740ead02.chunk.js",
+    "main.js.map": "/cronometrybe/static/js/main.740ead02.chunk.js.map",
     "runtime-main.js": "/cronometrybe/static/js/runtime-main.90922ef9.js",
     "runtime-main.js.map": "/cronometrybe/static/js/runtime-main.90922ef9.js.map",
     "static/css/2.800be05e.chunk.css": "/cronometrybe/static/css/2.800be05e.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.e3ac488a.chunk.js.map": "/cronometrybe/static/js/3.e3ac488a.chunk.js.map",
     "index.html": "/cronometrybe/index.html",
     "static/css/2.800be05e.chunk.css.map": "/cronometrybe/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.a1fe19c7.chunk.css.map": "/cronometrybe/static/css/main.a1fe19c7.chunk.css.map",
+    "static/css/main.83aab522.chunk.css.map": "/cronometrybe/static/css/main.83aab522.chunk.css.map",
     "static/js/2.adda7db3.chunk.js.LICENSE.txt": "/cronometrybe/static/js/2.adda7db3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.90922ef9.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.adda7db3.chunk.js",
-    "static/css/main.a1fe19c7.chunk.css",
-    "static/js/main.c7ead84e.chunk.js"
+    "static/css/main.83aab522.chunk.css",
+    "static/js/main.740ead02.chunk.js"
   ]
 }
