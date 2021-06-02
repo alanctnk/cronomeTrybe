@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cronometrybe/static/css/main.8d07689b.chunk.css",
-    "main.js": "/cronometrybe/static/js/main.71d61f07.chunk.js",
-    "main.js.map": "/cronometrybe/static/js/main.71d61f07.chunk.js.map",
+    "main.js": "/cronometrybe/static/js/main.1b1bb0bb.chunk.js",
+    "main.js.map": "/cronometrybe/static/js/main.1b1bb0bb.chunk.js.map",
     "runtime-main.js": "/cronometrybe/static/js/runtime-main.90922ef9.js",
     "runtime-main.js.map": "/cronometrybe/static/js/runtime-main.90922ef9.js.map",
     "static/css/2.800be05e.chunk.css": "/cronometrybe/static/css/2.800be05e.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.adda7db3.chunk.js",
     "static/css/main.8d07689b.chunk.css",
-    "static/js/main.71d61f07.chunk.js"
+    "static/js/main.1b1bb0bb.chunk.js"
   ]
 }
